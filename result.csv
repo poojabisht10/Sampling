@@ -1,0 +1,6 @@
+,Gaussian,Decision Tree,Random Forest,KNN,SVC
+SimpleRandom,77.26,99.38,100.0,97.51,97.82
+Systematic,80.79,98.25,100.0,96.51,96.94
+Stratified,79.75,97.82,100.0,95.64,97.51
+Cluster,100.0,100.0,100.0,100.0,100.0
+Bootstrap,85.81,99.56,100.0,98.69,98.69
